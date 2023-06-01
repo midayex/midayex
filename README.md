@@ -39,7 +39,7 @@
 
 <h4>Frameworks</h4>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -54,7 +54,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="VSCode" width="80" height="40"/> </a>
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="VSCode" width="80" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="VSCode" width="80" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="VSCode" width="80" height="40"/> </a>
 </div>
 
