@@ -15,7 +15,7 @@
 <p align="left">I'm Joris, fullstack developer from France.
 <br>
 <br>
-🔭 I’m work as web developer.<br>
+🔭 I’m working as web developer.<br>
 📚 I'm currently learning about cybersecurity and a lot of useless things.<br>
 ⚡️ I like to create some tools that make my life easier.
 
