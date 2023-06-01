@@ -28,34 +28,54 @@
 <div align="left">
 
 <h4>Frontend</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Javascript-yellow" alt="Javascript"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Typescript-blue" alt="Typescript"/> </a>
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Sass-pink" alt="Sass"/> </a>
 
 <h4>Backend</h4>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Bash-black" alt="Bash"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/PostgreSQL-darkblue" alt="PostgreSQL"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Python-blue" alt="Python"/> </a>
 
 <h4>Frameworks</h4>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/React-blue" alt="React"/> </a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/NextJS-grey" alt="NextJS"/> </a> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/ReactNative-blue" alt="ReactNative"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/NodeJS-green" alt="NodeJS"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Express-grey" alt="Express"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Django-green" alt="Django"/> </a> 
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Jest-grey" alt="Jest"/> </a>
 
 <h4>Tools</h4>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/> </a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="VSCode" width="80" height="40"/> </a>
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="VSCode" width="80" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" alt="VSCode" width="40" height="40"/> </a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="VSCode" width="80" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Github-black" alt="Github"/> </a> 
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Gitlab-orange" alt="Gitlab"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Docker-blue" alt="Docker"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Git-red" alt="Git"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/Postman-orange" alt="Postman"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/VSCode-blue" alt="VSCode"/> </a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/npm-red" alt="npm"/> </a>
+<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/yarn-blue" alt="yarn"/> </a>
 </div>
 
 ###
