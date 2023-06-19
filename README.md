@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/Jest-grey" alt="Jest"/> </a>
 
 <h4>Tools</h4>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Github-black" alt="Github"/> </a> 
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Gitlab-orange" alt="Gitlab"/> </a>
