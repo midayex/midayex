@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Joris, fullstack developer from France.
+<p align="left">I'm [Joris](https://www.joris-lefait.com/), fullstack developer from France.
 <br>
 <br>
 🔭 I’m working as web developer.<br>
